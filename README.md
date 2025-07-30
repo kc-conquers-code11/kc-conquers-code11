@@ -20,7 +20,7 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 - 💡 Skilled in **web development**, **data parsing**, **Java**, **AI/ML tools**, and **API integrations**
 - 🔐 Passionate about **cybersecurity**, system optimization, and writing clean, scalable code
-- 🌱 Currently diving deeper into  **DSA** & **AI & ML** innovations
+- 🌱 Currently diving deeper into **DSA** and exploring innovations in **AI & ML**
 
 ---
 
@@ -43,17 +43,17 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
   </a>
 </p>
 
-> 🧠 Also experienced with: `Excel`, `SQL`, `AI Tools`, `Data Parsing`, `Automation Scripting`
+> 🧠 Also experienced with: `SQL`, `Excel`, `AI Tools`, `Web Scraping`, `Automation Scripting`
 
 ---
 
 ### 🚀 Highlight Projects
 
-| 🛠️ Project | 💬 Description | 🔗 Tech Stack |
-|------------|----------------|----------------|
-| **Educods** | A department-level educational platform built for internal university management. | `React`, `Java`, `Tailwind`, `Machine Learning`, `APIs` |
-|**Zener Diode Virtual Lab** | Simulates Zener diode characteristics for 600+ students. Real-time interaction and accuracy-focused. | `JavaScript`, `p5.js`, `HTML` |
-| 🧠 **DSA Visualizer** *(WIP)* | Real-time visualizations of sorting/searching algorithms. | `C++`, `OpenGL`, `Tkinter` |
+| 🛠️ Project                   | 💬 Description                                                                 | 🔗 Tech Stack                                  |
+|-----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------|
+| **Educods**                 | A department-level educational platform built for internal university use.      | `React`, `Java`, `Tailwind`, `ML`, `APIs`     |
+| **Zener Diode Virtual Lab** | Simulates Zener diode characteristics for 600+ students with real-time interactivity. | `JavaScript`, `p5.js`, `HTML`              |
+| 🧠 **DSA Visualizer** *(WIP)*| Real-time visualizations of sorting/searching algorithms.                       | `C++`, `OpenGL`, `Tkinter`                    |
 
 👉 View all projects: [@kc-conquers-code11](https://github.com/kc-conquers-code11?tab=repositories)
 
@@ -76,9 +76,9 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krishna4u/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:krishnachoudhar11568@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:krishnachoudhary11568@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/kc-conquers-code11"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/kc16450"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
