@@ -1,9 +1,12 @@
 <h1 align="center">Hey there! I’m Krishna Choudhary 👋</h1>
 
 <p align="center">
-  <b>Cyber Enthusiast | Programmer | AI Explorer</b><br>
-  <i>Innovating Secure Software | Automating with Intelligence | Learning Non-Stop</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+Enthusiast+%7C+Programmer+%7C+AI+Explorer" alt="Typing SVG" />
+  </a><br>
+  <i>Innovating Secure Software · Automating with Intelligence · Learning Non-Stop</i>
 </p>
+
 
 <div align="center">
   <a href="https://github.com/kc-conquers-code11?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/kc-conquers-code11?label=Followers&style=for-the-badge&color=blueviolet&logo=github" /></a>
