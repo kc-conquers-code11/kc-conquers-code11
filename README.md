@@ -2,8 +2,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+Enthusiast+%7C+Programmer+%7C+AI+Explorer" alt="Typing SVG" />
-  </a><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=600&lines=Cyber+Enthusiast+%7C+Programmer+%7C+AI+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
   <i>Innovating Secure Software · Automating with Intelligence · Learning Non-Stop</i>
 </p>
 
