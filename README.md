@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm Krishna Choudhary, a **detail-driven programmer** and **cybersecurity enthusiast** passionate about building secure digital solutions.  
+I'm Krishna Choudhary, a **detail-driven programmer** and  **cybersecurity enthusiast** | Sophomore CSE student, passionate about building secure digital solutions.  
 From crafting dynamic web tools to automating workflows and exploring AI, I love turning concepts into functional, meaningful systems.
 
 - 💡 Skilled in **web development**, **data parsing**, **Java**, **AI/ML tools**, and **API integrations**
