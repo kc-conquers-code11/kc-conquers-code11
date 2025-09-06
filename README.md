@@ -56,9 +56,9 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 | 🛠️ Project                   | 💬 Description                                                                 | 🔗 Tech Stack                                  |
 |-----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------|
-| **Educods**                 | A department-level educational platform built for internal university use.      | `React`, `Java`, `Tailwind`, `ML`, `APIs`     |
-| **Zener Diode Virtual Lab** | Simulates Zener diode characteristics for 600+ students with real-time interactivity. | `JavaScript`, `p5.js`, `HTML`              |
-| 🧠 **DSA Visualizer** *(WIP)*| Real-time visualizations of sorting/searching algorithms.                       | `C++`, `OpenGL`, `Tkinter`                    |
+| **Educods**                 | A department-level educational platform built for internal university use.      | `HTML`, `Java`, `Tailwind`, `APIs`     |
+| **Zener Diode Virtual Lab** | Simulates Zener diode characteristics for 600+ students with real-time interactivity. | `JavaScript`, `p5.js`, `HTML`, `Chartjs`, `CSS`              |
+| 🧠 **DSA Visualizer** *(WIP)*| Real-time visualizations of sorting/searching algorithms.                       | `HTML`, `CSS`, `Vanilla Js`                    |
 
 👉 View all projects: [@kc-conquers-code11](https://github.com/kc-conquers-code11?tab=repositories)
 
