@@ -44,7 +44,7 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 <p align="center">
   <a href="https://skillicons.dev" title="Tech Stack">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,github,docker,vscode,netlify,postman,firebase" height="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,github,docker,vscode,netlify,postman,firebase,react,mongo,bootstrap,express,node" height="40" />
   </a>
 </p>
 
