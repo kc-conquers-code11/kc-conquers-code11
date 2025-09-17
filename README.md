@@ -66,10 +66,10 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kc-conquers-code11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc-conquers-code11&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kc-conquers-code11&theme=tokyonight&hide_border=true" />
