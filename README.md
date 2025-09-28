@@ -52,7 +52,7 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 ---
 
-### 🚀 Highlight Projects
+### 🚀 Project Highlights: 
 
 | 🛠️ Project                   | 💬 Description                                                                 | 🔗 Tech Stack                                  |
 |-----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------|
