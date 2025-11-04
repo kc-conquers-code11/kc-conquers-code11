@@ -44,11 +44,11 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 <p align="center">
   <a href="https://skillicons.dev" title="Tech Stack">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,github,docker,vscode,netlify,postman,firebase,react,mongo,bootstrap,express,node" height="80" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,kali,linux,debian,arch,github,docker,vscode,netlify,postman,firebase,react,mongo,bootstrap,express,nodejs&perline=8" />
   </a>
 </p>
 
-> 🧠 Also experienced with: `SQL`, `Excel`, `AI Tools`, `Web Scraping`, `Automation Scripting`
+> Also experienced with: `SQL`, `Excel`, `AI Tools`, `Web Scraping`, `Automation Scripting`
 
 ---
 
