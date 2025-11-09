@@ -23,9 +23,9 @@
 I'm Krishna Choudhary, a **detail-driven programmer** and  **cybersecurity enthusiast** | Sophomore CSE student, passionate about building secure digital solutions.  
 From crafting dynamic web tools to automating workflows and exploring AI, I love turning concepts into functional, meaningful systems.
 
-- 💡 Skilled in **web development**, **data parsing**, **Java**, **AI/ML tools**, and **API integrations**
-- 🔐 Passionate about **cybersecurity**, system optimization, and writing clean, scalable code
-- 🌱 Currently diving deeper into **DSA** and exploring innovations in **AI & ML**
+-  Skilled in **web development**, **data parsing**, **Java**, **AI/ML tools**, and **API integrations**
+-  Passionate about **cybersecurity**, system optimization, and writing clean, scalable code
+-  Currently learning & diving deeper into **DSA** and exploring innovations in **AI & ML**
 
 ---
 
@@ -52,19 +52,19 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 ---
 
-### 🚀 Project Highlights: 
+###  Project Highlights: 
 
-| 🛠️ Project                   | 💬 Description                                                                 | 🔗 Tech Stack                                  |
+|  Project                   |  Description                                                                 |  Tech Stack                                  |
 |-----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------|
 | **Educods**                 | A department-level educational platform built for internal university use.      | `HTML`, `Java`, `Tailwind`, `APIs`     |
 | **Zener Diode Virtual Lab** | Simulates Zener diode characteristics for 600+ students with real-time interactivity. | `JavaScript`, `p5.js`, `HTML`, `Chartjs`, `CSS`              |
-| 🧠 **DSA Visualizer** *(WIP)*| Real-time visualizations of sorting/searching algorithms.                       | `HTML`, `CSS`, `Vanilla Js`                    |
+|  **DSA Visualizer** *(WIP)*| Real-time visualizations of sorting/searching algorithms.                       | `HTML`, `CSS`, `Vanilla Js`                    |
 
 👉 View all projects: [@kc-conquers-code11](https://github.com/kc-conquers-code11?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats 🎯
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kc-conquers-code11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
