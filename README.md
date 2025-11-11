@@ -18,7 +18,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 I'm Krishna Choudhary, a **detail-driven programmer** and  **cybersecurity enthusiast** | Sophomore CSE student, passionate about building secure digital solutions.  
 From crafting dynamic web tools to automating workflows and exploring AI, I love turning concepts into functional, meaningful systems.
@@ -29,7 +29,7 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 ---
 
-### 🧠 Languages I Use Often
+### Languages I Use Often
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
