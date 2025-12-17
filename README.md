@@ -147,5 +147,3 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 <p align="center">
   Built with 💻 | Secured with 🔒 | Deployed with 🚀  
   <br/>
-  Made with ❤️ by <a href="https://github.com/kc-conquers-code11">KC</a>
-</p>
