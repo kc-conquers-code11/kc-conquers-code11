@@ -45,10 +45,15 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,linux,github,docker,vscode,postman,react,mongo,bootstrap,nodejs&perline=8" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,kali,linux,debian,arch,github,vscode,netlify,postman,firebase,react,mongo,bootstrap,express,nodejs&perline=8" />
+  </a>
 </p>
 
+> Also experienced with: `SQL`, `Excel`, `AI Tools`, `Web Scraping`, `Automation Scripting`
+
 ---
+
 
 ### Project Highlights
 
