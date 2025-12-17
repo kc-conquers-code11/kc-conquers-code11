@@ -66,6 +66,24 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 👉 View all projects: [@kc-conquers-code11](https://github.com/kc-conquers-code11?tab=repositories)
 
 ---
+## Smart India Hackathon 2025 Finalist 🏆: 
+
+- 🧠 **Problem Domain:** AgriTech / Biosecurity / Risk Modeling  
+- 🏛️ **Client Ministry:** Ministry of Fisheries, Animal Husbandry & Dairying (Govt. of India)  
+- 🛠️ **Solution:** Digital Farm Management & Biosecurity Portal  
+- 🎯 **Focus Areas:**  
+  - Disease risk tracking & biosecurity alerts  
+  - Data-driven decision support for farmers & officials  
+  - Scalable, modular full-stack architecture  
+
+**My Role**
+- 🧩 System design & architecture planning  
+- ⚙️ Full-stack feature implementation  
+- 🔐 Security-first approach & data integrity considerations  
+
+> *SIH strengthened my ability to design real-world, government-scale systems under strict timelines while collaborating in a high-pressure team environment.*
+
+---
 
 ## 📊 GitHub Snapshot
 
