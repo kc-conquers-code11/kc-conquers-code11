@@ -2,11 +2,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=600&lines=Cyber+Enthusiast+%7C+Programmer+%7C+AI+Explorer" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1300&center=true&vCenter=true&width=820&lines=CYBER+ENTHUSIAST+%7C+POLYGLOT+ENGINEER+%7C+AI+EXPLORER;SIH+2025+NATIONAL+FINALIST;INNOVATING+SECURE+SOFTWARE;AUTOMATING+WITH+INTELLIGENCE;LEARNING+NON-STOP"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
-<i>Innovating Secure Software · Automating with Intelligence · Learning Non-Stop</i>
+
 
 <div align="center">
   <a href="https://github.com/kc-conquers-code11?tab=followers">
