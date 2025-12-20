@@ -86,10 +86,10 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 ---
 
 ## 📊 GitHub Snapshot
-
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-krishna.vercel.app//api?username=kc-conquers-code11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-krishna.vercel.app//api/top-langs/?username=kc-conquers-code11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-krishna.vercel.app/api?username=kc-conquers-code11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="170em" src="https://github-readme-stats-krishna.vercel.app/api/top-langs/?username=kc-conquers-code11&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
