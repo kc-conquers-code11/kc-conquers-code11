@@ -118,6 +118,7 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
   <img alt="GitHub contribution snake" 
        src="https://raw.githubusercontent.com/kc-conquers-code11/kc-conquers-code11/output/snake.svg" />
 </picture>
+
 ---
 
 ### 🤝 Connect With Me
