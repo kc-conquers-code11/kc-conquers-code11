@@ -62,13 +62,17 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 | Project | Description | Tech Stack |
 |-------|-------------|------------|
-| **Educods** | Department-level educational platform | `HTML`, `Java`, `Tailwind`, `APIs` |
-| **Zener Diode Virtual Lab** | Interactive simulation for 600+ students | `JavaScript`, `p5.js`, `Chart.js`, `CSS` |
-| **DSA Visualizer (WIP)** | Algorithm visualizations | `HTML`, `CSS`, `Vanilla JS` |
+| **AgroSeva** | Autonomous & Smart Irrigation System (Hackathon Winner) | `React Native`, `Expo`, `IoT` |
+| **FarmSeva** | Pig and Poultry Biosecurity Portal | `Next.js`, `Supabase (PostgreSQL)`, `n8n` |
+| **Notice Pro AI** | Smart Notice Generator for Institutes | `React`, `Tailwind`, `APIS` |
+| **DSA Visualizer** | Algorithm visualizations | `HTML`, `CSS`, `Vanilla JS` |
+| **Zener Diode Virtual Lab** | Interactive simulation for 600+ students | `JavaScript`, `p5.js`, `Chart.js` |
+| **Educods (HSC)** | Department-level peer learning platform | `HTML`, `Java`, `Tailwind`, `APIs` |
+
 
 👉 View all projects: [@kc-conquers-code11](https://github.com/kc-conquers-code11?tab=repositories)
-
 ---
+
 ## Smart India Hackathon 2025 Finalist 🏆: 
 
 - **Problem Domain:** AgriTech / Biosecurity / Risk Modeling  
