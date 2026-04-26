@@ -62,13 +62,13 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 | Project | Description | Tech Stack |
 |-------|-------------|------------|
-| **AcadFlow** | Submissions Made Easier | `React`, `PostGre SQL`, `API's` |
+| **AcadFlow** | Submissions Made Easier (21k+ Submissions) | `React`, `PostGre SQL`, `API's` |
 | **AgroSeva** | Autonomous , Smart Irrigation & Farm Intelligence System (Hackathon Winner) | `React Native`, `Expo`, `IoT` |
 | **FarmSeva** | Pig and Poultry Biosecurity Portal | `Next.js`, `Supabase (PostgreSQL)`, `n8n` |
 | **Notice Pro AI** | Smart Notice Generator for Institutes | `React`, `Tailwind`, `APIS` |
-| **DSA Visualizer** | Algorithm visualizations | `HTML`, `CSS`, `Vanilla JS` |
+| **DSA Visualizer** | Algorithm visualizations (50+ students) | `HTML`, `CSS`, `Vanilla JS` |
 | **Zener Diode Virtual Lab** | Interactive simulation for 600+ students | `JavaScript`, `p5.js`, `Chart.js` |
-| **Educods (HSC)** | Department-level peer learning platform | `HTML`, `Java`, `Tailwind`, `APIs` |
+| **Educods (HSC)** | Department-level peer learning platform (360+ students) | `HTML`, `Java`, `Tailwind`, `APIs` |
 
 
 👉 View all projects: [@kc-conquers-code11](https://github.com/kc-conquers-code11?tab=repositories)
