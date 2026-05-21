@@ -113,15 +113,15 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 ---
 
-## 🐍 Contribution Snake
+## 👾 Pacman Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/kc-conquers-code11/kc-conquers-code11/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/kc-conquers-code11/kc-conquers-code11/output/snake.svg" />
-  <img alt="GitHub contribution snake" 
-       src="https://raw.githubusercontent.com/kc-conquers-code11/kc-conquers-code11/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/kc-conquers-code11/kc-conquers-code11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/kc-conquers-code11/kc-conquers-code11/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph"
+       src="https://raw.githubusercontent.com/kc-conquers-code11/kc-conquers-code11/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
