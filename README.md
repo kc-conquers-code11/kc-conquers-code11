@@ -62,6 +62,7 @@ From crafting dynamic web tools to automating workflows and exploring AI, I love
 
 | Project | Description | Tech Stack |
 |-------|-------------|------------|
+| **AdmitFlow** | Admission Queue Management System | `React(TanStack)`, `PostGre SQL`, `API's` |
 | **AcadFlow** | Submissions Made Easier (21k+ Submissions) | `React`, `PostGre SQL`, `API's` |
 | **AgroSeva** | Autonomous , Smart Irrigation & Farm Intelligence System (Hackathon Winner) | `React Native`, `Expo`, `IoT` |
 | **FarmSeva** | Pig and Poultry Biosecurity Portal | `Next.js`, `Supabase (PostgreSQL)`, `n8n` |
